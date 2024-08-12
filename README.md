@@ -7,4 +7,5 @@ Hi, I'm Saswata! I hold a Master's in Biotechnology and Medical Engineering, wit
 1. **Master's Dissertation**
    - Title: Fabrication of an eggshell membrane reinforced composite adhesive bioink with anti-bacterial and wound healing properties
    - Objectives: Bioink fabrication, physicochemical and mechanical characterization, in vitro assays for cytocompatibility, wound healing and antibacterial studies, ex vivo models to study tissue adhesion
-   - Outcomes: Developed bioink demonstrated very high shape fidelity, and had synergistic properties of wound healing, tissue adhesion, and antimicrobial properties.
+   - Outcomes: Developed bioink demonstrated very high shape fidelity, and had synergistic properties of wound healing, tissue adhesion, and antimicrobial properties
+     
