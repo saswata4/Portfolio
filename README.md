@@ -1,3 +1,3 @@
 **About** 
 
-I am currently working as a Junior Research Fellow at the Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology Bombay. I have recently completed my Master of Technology from the Department of Biotechnology and Medical Engineering, National Institute of Technology Rourkela. I have experience in biomaterials, tissue engineering, and nanobiotechnology. I am skilled in mammalian and microbial cell cultures, scaffold fabrication techniques, cell-based assays, and material characterization. I am enthusiastic to gain more knowledge and experience in biomedical engineering and conducting translational research.
+Hi, I'm Saswata! With a Master's in Biotechnology and Medical Engineering and a passion for conducting translational research, I am currently employed at Indian Institute of Technology Bombay as a Junior Research Fellow.
